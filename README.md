@@ -6,4 +6,4 @@
 
 1. Input a year and you will obatin an output of days from 1900 till it.
 2. It's a game of rock-paper-scissors. (Not intelligent)
-3. 
+3. Simulates the application of a database on a library management system.
