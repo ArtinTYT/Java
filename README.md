@@ -1,10 +1,13 @@
 # Java-2017
 
 **Those codes about JavaSE and were wrote in 2017.**
+
 **Some files contain Chinese comments and strings.**
 
 ### Description
+
 File 1: Input a year and you will obatin an output of days from 1900 till it.
+
 File 2: It's a game of rock-paper-scissors. (Not intelligent)
 
 #### chatBox: JavaSE Chat Platform Simulation
